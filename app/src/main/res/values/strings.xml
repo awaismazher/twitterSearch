@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwitterSearchApi</string>
+    <string name="no_tweets_avaialable">No tweet available at moment. Please comeback later!</string>
+</resources>
