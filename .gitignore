@@ -1,6 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.idea/
+
+
 # Compiled class file
 *.class
-
 # Log file
 *.log
 
